@@ -109,26 +109,26 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/saagarverma/github-readme-stats"><img alt="saagarverma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagarverma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <img align="center" 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=saagarverma&show_icons=true&locale=en&layout=compact" alt="saagarverma" />
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/saagarverma/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saagarverma&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
+    <br/>
+  <br/>
+                                                                  
+ 
+
+<br/>
+<br/>
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saagarverma&" alt="saagarverma" />
 </p>                                                                                                                                              
 
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/saagarverma/github-readme-stats"><img alt="rishunayak Github Stats" src="https://github-readme-stats.vercel.app/api?username=saagarverma&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
-    </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/saagarverma/github-readme-activity-graph"><img alt="rishunayak Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saagarverma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
