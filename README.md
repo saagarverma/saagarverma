@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing MCA from lovely 
+- 🔭 I’m currently pursuing MCA
 
 - 🌱 I’m currently learning **Java **
 
