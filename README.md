@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Sagar Verma; I am learning Full-stack%20web%20developerment 👨🏻‍💻; interested in Sports 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Sagar Verma; interested in Sports 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently pursuing MCA
 
-- 🌱 I’m currently learning **Java **
+- 🌱 I’m currently learning **Java**
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1_IZ58J_Z0ggYd2l8ftEpi-cs6WZSuv_b/view?usp=share_link)
 
@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
-- 📫 How to reach me **Saagarverma0786@gmail.com**
+- 📫 How to reach me **saagarverma0786@gmail.com**
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
